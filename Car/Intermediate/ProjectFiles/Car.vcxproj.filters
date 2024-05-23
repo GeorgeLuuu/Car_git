@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Car.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Car.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CarEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\Car">
+      <UniqueIdentifier>{A2102F19-B7B9-3F4F-AA09-C2824638D40D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Car\Car.Build.cs">
+      <Filter>Source\Car</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Car\Car.cpp">
+      <Filter>Source\Car</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Car\Car.h">
+      <Filter>Source\Car</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Car\CarGameModeBase.cpp">
+      <Filter>Source\Car</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Car\CarGameModeBase.h">
+      <Filter>Source\Car</Filter>
+    </ClInclude>
+    <Filter Include="Source\Car\Sensor">
+      <UniqueIdentifier>{D6166E12-42D8-3B2C-BBBC-307424F048AC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Car\Sensor\Radar.cpp">
+      <Filter>Source\Car\Sensor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Car\Sensor\Radar.h">
+      <Filter>Source\Car\Sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Car\Sensor\RadarData.h">
+      <Filter>Source\Car\Sensor</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Car\Sensor\Sensor.cpp">
+      <Filter>Source\Car\Sensor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Car\Sensor\Sensor.h">
+      <Filter>Source\Car\Sensor</Filter>
+    </ClInclude>
+    <Filter Include="Source\Car\Util">
+      <UniqueIdentifier>{733E2666-1155-3862-8560-601DEA8B4862}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Car\Util\RandomEngine.cpp">
+      <Filter>Source\Car\Util</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Car\Util\RandomEngine.h">
+      <Filter>Source\Car\Util</Filter>
+    </ClInclude>
+    <Filter Include="Source\Car\Vehicle">
+      <UniqueIdentifier>{ADC3158C-A21D-3A43-B920-5F84205AA9D7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Car\Vehicle\Vehicle.cpp">
+      <Filter>Source\Car\Vehicle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Car\Vehicle\Vehicle.h">
+      <Filter>Source\Car\Vehicle</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

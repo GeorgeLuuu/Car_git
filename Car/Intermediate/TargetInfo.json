@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Car",
+			"Path": "E:\\Thesis Unreal Project\\Car\\Source\\Car.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CarEditor",
+			"Path": "E:\\Thesis Unreal Project\\Car\\Source\\CarEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Car.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Thesis Unreal Project\Car\Intermediate\Build\Win64\CarEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Thesis Unreal Project\Car\Intermediate\Build\Win64\UnrealEditor\Development\Car\Radar.cpp.obj"
+"E:\Thesis Unreal Project\Car\Intermediate\Build\Win64\UnrealEditor\Development\Car\Sensor.cpp.obj"
+"E:\Thesis Unreal Project\Car\Intermediate\Build\Win64\UnrealEditor\Development\Car\RandomEngine.cpp.obj"
+"E:\Thesis Unreal Project\Car\Intermediate\Build\Win64\UnrealEditor\Development\Car\Vehicle.cpp.obj"
+"E:\Thesis Unreal Project\Car\Intermediate\Build\Win64\UnrealEditor\Development\Car\Car.cpp.obj"
+"E:\Thesis Unreal Project\Car\Intermediate\Build\Win64\UnrealEditor\Development\Car\CarGameModeBase.cpp.obj"
+"E:\Thesis Unreal Project\Car\Intermediate\Build\Win64\UnrealEditor\Development\Car\Car.init.gen.cpp.obj"
+"E:\Thesis Unreal Project\Car\Intermediate\Build\Win64\UnrealEditor\Development\Car\CarGameModeBase.gen.cpp.obj"
+"E:\Thesis Unreal Project\Car\Intermediate\Build\Win64\UnrealEditor\Development\Car\Radar.gen.cpp.obj"
+"E:\Thesis Unreal Project\Car\Intermediate\Build\Win64\UnrealEditor\Development\Car\RandomEngine.gen.cpp.obj"
+"E:\Thesis Unreal Project\Car\Intermediate\Build\Win64\UnrealEditor\Development\Car\Sensor.gen.cpp.obj"
+"E:\Thesis Unreal Project\Car\Intermediate\Build\Win64\UnrealEditor\Development\Car\Vehicle.gen.cpp.obj"
+"E:\Thesis Unreal Project\Car\Intermediate\Build\Win64\UnrealEditor\Development\Car\Default.rc2.res"
+/OUT:"E:\Thesis Unreal Project\Car\Intermediate\Build\Win64\UnrealEditor\Development\Car\UnrealEditor-Car.lib"

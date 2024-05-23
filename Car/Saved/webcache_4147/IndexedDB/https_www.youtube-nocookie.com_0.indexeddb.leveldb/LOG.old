@@ -1,0 +1,5 @@
+2024/04/10-19:41:05.885 7320 Reusing MANIFEST E:/Thesis Unreal Project/Car/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/12-08:48:56.246 b60c Level-0 table #5: started
+2024/04/12-08:48:56.253 b60c Level-0 table #5: 1211 bytes OK
+2024/04/12-08:48:56.254 b60c Delete type=0 #3
+2024/04/12-08:48:56.254 b60c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

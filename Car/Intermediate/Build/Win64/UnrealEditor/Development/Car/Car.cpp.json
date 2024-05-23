@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\thesis unreal project\\car\\source\\car\\car.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\thesis unreal project\\car\\intermediate\\build\\win64\\careditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\thesis unreal project\\car\\intermediate\\build\\win64\\unrealeditor\\development\\car\\definitions.car.h",
+            "e:\\thesis unreal project\\car\\source\\car\\car.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

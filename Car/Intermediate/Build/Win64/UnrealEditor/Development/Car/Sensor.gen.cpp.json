@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\thesis unreal project\\car\\intermediate\\build\\win64\\unrealeditor\\inc\\car\\sensor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\thesis unreal project\\car\\intermediate\\build\\win64\\careditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\thesis unreal project\\car\\intermediate\\build\\win64\\unrealeditor\\development\\car\\definitions.car.h",
+            "e:\\thesis unreal project\\car\\source\\car\\sensor\\sensor.h",
+            "e:\\thesis unreal project\\car\\source\\car\\util\\randomengine.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\random",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\algorithm",
+            "e:\\thesis unreal project\\car\\intermediate\\build\\win64\\unrealeditor\\inc\\car\\randomengine.generated.h",
+            "e:\\thesis unreal project\\car\\intermediate\\build\\win64\\unrealeditor\\inc\\car\\sensor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

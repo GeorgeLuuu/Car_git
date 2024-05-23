@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Thesis Unreal Project\\Car\\Source\\Car\\Car.Build.cs",
+		"E:\\Thesis Unreal Project\\Car\\Source\\Car.Target.cs",
+		"E:\\Thesis Unreal Project\\Car\\Source\\CarEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
